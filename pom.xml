@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		 <docker.image.prefix>docker-demo</docker.image.prefix>
+		 <docker.image.prefix>docker-dhy-demo</docker.image.prefix>
 	</properties>
 
 	<dependencies>
